@@ -1,45 +1,49 @@
-# Sumber Utama Bangkit 2024
+# 🌟 Sumber Utama Bangkit 2024
 
-Selama menjadi bagian dari kohort, penting untuk merujuk ke beberapa sumber utama yang telah disediakan. Berikut adalah daftar lengkap link yang dapat digunakan selama program berlangsung:
-
-1. **[Panduan Kohort](https://bangkit.dev/CohortGuideBangkit2024Batch2)**  
-   Panduan utama yang berisi semua informasi penting terkait struktur program, aturan, dan alur pelaksanaan Bangkit 2024.
-
-2. **[Welcome Kit](https://bangkit.dev/WelcomeKitBangkit2024Batch2)**  
-   Informasi selamat datang yang mempersiapkan kalian untuk mengikuti kohort dengan baik.
-
-3. **[Timeline](https://bangkit.dev/Bangkit2024H2-WeeklyTimeline)**  
-   Jadwal mingguan program Bangkit 2024 yang membantu kalian mengetahui aktivitas setiap minggu.
-
-4. **[FAQ (Pertanyaan yang Sering Diajukan)](https://bangkit.dev/Bangkit2024FAQ)**  
-   Jawaban atas pertanyaan umum yang sering muncul selama program berlangsung.
-
-5. **[Sistem Penilaian](https://bangkit.dev/BangkitAssessmentSystem)**  
-   Panduan mengenai sistem penilaian yang digunakan dalam program agar kalian dapat memahami cara penilaian.
-
-6. **[Panduan Tugas Soft Skill](https://bangkit.dev/SoftSkillAssignmentPlagiarismGuidelines)**  
-   Informasi mengenai cara mengerjakan tugas soft skill dengan benar, termasuk panduan terkait plagiarisme.
-
-7. **[Silabus](https://drive.google.com/file/d/1E4Dk4tbh7tq2XhxklIeKYiircmRajafw/view?usp=sharing)**  
-   Dokumen silabus yang merinci materi yang akan dipelajari selama kohort berlangsung.
-
-8. **[Panduan Logbook Bulanan MSIB](https://pusatinformasi.kampusmerdeka.kemdikbud.go.id/hc/en-us/articles/29500656534297-Cara-Membuat-Laporan-Bulanan-Mahasiswa-MSIB-6)**  
-   Instruksi terkait pelaporan bulanan mahasiswa MSIB, penting untuk memenuhi persyaratan laporan.
+Selama menjadi bagian dari kohort **Bangkit 2024**, pastikan untuk merujuk pada sumber-sumber utama berikut. Semua dokumen dan link penting ini akan memandu kalian sepanjang program:
 
 ---
 
-## Alat dan Portal Penting
+## 📚 Panduan dan Dokumen Utama
 
-Berikut adalah alat dan portal yang dapat digunakan selama program berlangsung:
+1. **[Panduan Kohort](https://bangkit.dev/CohortGuideBangkit2024Batch2)**  
+   _Panduan utama_ berisi semua informasi penting terkait struktur program, aturan, dan alur pelaksanaan Bangkit 2024.
+
+2. **[Welcome Kit](https://bangkit.dev/WelcomeKitBangkit2024Batch2)**  
+   Paket selamat datang yang membantu mempersiapkan kalian untuk mengikuti kohort dengan baik.
+
+3. **[Timeline](https://bangkit.dev/Bangkit2024H2-WeeklyTimeline)**  
+   Jadwal mingguan yang membantu mengetahui aktivitas setiap minggu selama program.
+
+4. **[FAQ (Pertanyaan yang Sering Diajukan)](https://bangkit.dev/Bangkit2024FAQ)**  
+   Jawaban atas pertanyaan umum yang sering muncul selama program.
+
+5. **[Sistem Penilaian](https://bangkit.dev/BangkitAssessmentSystem)**  
+   Panduan lengkap mengenai sistem penilaian agar kalian memahami cara evaluasi selama program.
+
+6. **[Panduan Tugas Soft Skill](https://bangkit.dev/SoftSkillAssignmentPlagiarismGuidelines)**  
+   Informasi tentang cara mengerjakan tugas soft skill dengan benar, termasuk panduan terkait plagiarisme.
+
+7. **[Silabus](https://drive.google.com/file/d/1E4Dk4tbh7tq2XhxklIeKYiircmRajafw/view?usp=sharing)**  
+   Dokumen silabus yang merinci materi yang akan dipelajari selama kohort.
+
+8. **[Panduan Logbook Bulanan MSIB](https://pusatinformasi.kampusmerdeka.kemdikbud.go.id/hc/en-us/articles/29500656534297-Cara-Membuat-Laporan-Bulanan-Mahasiswa-MSIB-6)**  
+   Instruksi tentang pelaporan bulanan mahasiswa MSIB, penting untuk memenuhi persyaratan laporan.
+
+---
+
+## 🛠️ Alat dan Portal Penting
+
+Berikut adalah beberapa alat dan portal yang digunakan selama program:
 
 1. **[Dashboard Mahasiswa](https://dashboard.bangkit.academy/)**  
-   Alat utama untuk memantau progres kalian selama program.
+   Tempat untuk memantau progres kalian selama program.
 
 2. **[Portal Mahasiswa](https://dashboard.bangkit.academy/student-portal)**  
-   Tempat untuk mengakses berbagai informasi dan dokumen penting.
+   Tempat mengakses berbagai informasi dan dokumen penting.
 
 3. **[Kampus Merdeka](https://kampusmerdeka.kemdikbud.go.id/)**  
-   Situs resmi Kampus Merdeka dari Kemdikbud, tempat untuk informasi tambahan mengenai program MSIB.
+   Situs resmi dari Kemdikbud untuk informasi tambahan mengenai program MSIB.
 
 4. **[Kalender](https://calendar.google.com/)**  
    Akses ke kalender untuk mengatur jadwal dan pengingat penting.
@@ -49,34 +53,34 @@ Berikut adalah alat dan portal yang dapat digunakan selama program berlangsung:
 
 ---
 
-## Formulir Penting
+## 📝 Formulir Penting
 
-Berikut link formulir yang harus diingat untuk berbagai keperluan laporan dan pengajuan:
+Berikut adalah beberapa formulir penting yang harus kalian ingat untuk berbagai keperluan laporan dan pengajuan:
 
 1. **[Laporan Kemajuan Belajar untuk Supervisor](https://bangkit.dev/2024Batch2_SupervisorReport)**  
-   Formulir yang harus diisi untuk melaporkan progres kepada supervisor.
+   Formulir untuk melaporkan progres kepada supervisor.
 
 2. **[Formulir Izin](https://bangkit.dev/PermissionForm2024H2)**  
-   Digunakan untuk mengajukan izin tidak hadir.
+   Digunakan untuk mengajukan izin ketidakhadiran.
 
 3. **[Formulir Tugas Teknologi Terlambat](https://bangkit.dev/LateTechAssignment2024H2)**  
    Digunakan untuk pengumpulan tugas teknologi yang terlambat.
 
 4. **[Formulir Banding Tugas Soft Skill ILT](https://bangkit.dev/SSAssignmentAppeals-24H2)**  
-   Formulir banding jika ada keberatan terhadap penilaian tugas soft skill.
+   Formulir untuk banding penilaian tugas soft skill jika diperlukan.
 
 5. **[Formulir Pengumpulan Abstrak](https://bangkit.dev/AbstractSubmission2024H2)**  
    Formulir untuk mengumpulkan abstrak proyek akhir.
 
 6. **[Formulir Revisi Data Kohort](https://bangkit.dev/CohortDataRevise)**  
-   Digunakan untuk mengajukan revisi data terkait kohort kalian.
+   Digunakan untuk mengajukan revisi data terkait kohort.
 
 7. **[Formulir Pengajuan Dokumen](https://bangkit.dev/DocReq2024H2)**  
-   Formulir untuk mengajukan permintaan dokumen tertentu selama program.
+   Formulir untuk mengajukan permintaan dokumen selama program berlangsung.
 
 8. **[Formulir Pengumpulan Sertifikat](https://bangkit.dev/CertificateSubmission2024H2)**  
-   Digunakan untuk mengumpulkan sertifikat yang diperlukan.
+   Digunakan untuk pengumpulan sertifikat yang diperlukan.
 
 ---
 
-Semua dokumen ini bersifat **live**, yang berarti akan diperbarui secara berkala. Pastikan untuk memeriksa secara rutin agar selalu mendapatkan informasi terbaru.
+> ⚠️ Semua dokumen ini bersifat **live** dan akan diperbarui secara berkala. Pastikan untuk memeriksa secara rutin agar selalu mendapatkan informasi terbaru.
