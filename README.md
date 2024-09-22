@@ -13,22 +13,23 @@ Selama menjadi bagian dari kohort **Bangkit 2024**, pastikan untuk merujuk pada 
   Students Welcome Kit Bangkit 2024 adalah panduan bagi peserta program untuk mempersiapkan diri sebelum memulai kegiatan. Dokumen ini mencakup informasi tentang pengaturan akun, perangkat, serta penggunaan aplikasi seperti Google Workspace dan      platform komunikasi virtual seperti Google Meet dan Zoom. Tujuannya adalah membantu peserta siap secara teknis dan administratif untuk mengikuti program Bangkit 2024.
 
 4. **[Timeline](https://bangkit.dev/Bangkit2024H2-WeeklyTimeline)**  
-   Bangkit 2024 Batch 2 Timeline adalah panduan jadwal bagi peserta program Bangkit 2024 yang merinci modul pembelajaran serta tenggat waktu di berbagai jalur, termasuk Soft Skills, Bahasa Inggris, Android, Cloud, dan Machine Learning. Dokumen ini menampilkan alur pembelajaran mingguan dari September hingga Desember 2024, dengan fokus pada tugas, latihan, dan proyek yang harus diselesaikan. Setiap jalur memiliki tenggat waktu khusus untuk setiap tugas, memastikan peserta dapat mengikuti program dengan terstruktur dan tepat waktu.
+   Bangkit 2024 Batch 2 Timeline adalah panduan jadwal bagi peserta program Bangkit 2024 yang merinci modul pembelajaran serta tenggat waktu di berbagai jalur, termasuk Soft Skills, Bahasa Inggris, Android, Cloud, dan Machine Learning. Dokumen ini    menampilkan alur pembelajaran mingguan dari September hingga Desember 2024, dengan fokus pada tugas, latihan, dan proyek yang harus diselesaikan. Setiap jalur memiliki tenggat waktu khusus untuk setiap tugas, memastikan peserta dapat mengikuti     program dengan terstruktur dan tepat waktu.
 
 5. **[FAQ (Pertanyaan yang Sering Diajukan)](https://bangkit.dev/Bangkit2024FAQ)**  
-   Jawaban atas pertanyaan umum yang sering muncul selama program.
+   Frequently Asked Questions (FAQ) Bangkit 2024 adalah dokumen yang berisi kumpulan pertanyaan dan jawaban seputar program Bangkit 2024. Dokumen ini mencakup berbagai informasi penting, mulai dari pendaftaran, persyaratan, alur program, hingga       aturan terkait tugas dan proyek. FAQ ini dirancang untuk membantu peserta memahami program secara lebih mendalam serta memberikan solusi atas pertanyaan umum yang sering muncul selama mengikuti Bangkit.
+
 
 6. **[Sistem Penilaian](https://bangkit.dev/BangkitAssessmentSystem)**  
-   Panduan lengkap mengenai sistem penilaian agar kalian memahami cara evaluasi selama program.
+   Bangkit Assessment System adalah panduan penilaian untuk peserta program Bangkit 2024. Dokumen ini menjelaskan metode penilaian yang digunakan selama program, termasuk perhitungan nilai akhir yang didasarkan pada tugas, proyek, dan ujian.          Selain itu, dokumen ini juga mencakup rubrik penilaian yang memandu peserta mengenai bobot nilai untuk setiap aktivitas dan skala penilaian dari 1 hingga 5 bintang. Sistem ini memastikan bahwa peserta memahami kriteria penilaian yang harus         dipenuhi untuk mencapai hasil yang optimal, termasuk panduan khusus untuk proyek akhir program.
 
 7. **[Panduan Tugas Soft Skill](https://bangkit.dev/SoftSkillAssignmentPlagiarismGuidelines)**  
-   Informasi tentang cara mengerjakan tugas soft skill dengan benar, termasuk panduan terkait plagiarisme.
+   Soft Skill Assignment Plagiarism Guidelines dari Bangkit 2024 adalah panduan untuk membantu peserta memahami indikator plagiarisme dalam tugas soft skills dan cara menghindarinya. Dokumen ini juga menjelaskan langkah-langkah mengajukan banding     jika peserta dituduh melakukan plagiarisme, termasuk pengisian form dan penyertaan bukti. Peserta yang berhasil dalam banding akan dinilai ulang, sementara yang ditolak akan diberikan kesempatan terakhir untuk mengirim ulang tugas dalam batas      waktu yang ditentukan.
 
 8. **[Silabus](https://drive.google.com/file/d/1E4Dk4tbh7tq2XhxklIeKYiircmRajafw/view?usp=sharing)**  
-   Dokumen silabus yang merinci materi yang akan dipelajari selama kohort.
+   Bangkit Academy 2024 SKS Conversion Guidelines adalah panduan yang menjelaskan cara mengonversi jam belajar dalam program Bangkit 2024 menjadi Satuan Kredit Semester (SKS) di universitas. Dokumen ini memberikan rincian tentang setiap jalur         pembelajaran, seperti Android, Cloud Computing, dan Machine Learning, beserta jumlah jam belajar dan rekomendasi konversi SKS untuk setiap modul. Panduan ini memudahkan peserta dan universitas dalam memahami perhitungan SKS berdasarkan             aktivitas dan pencapaian peserta selama mengikuti program Bangkit.
 
 9. **[Panduan Logbook Bulanan MSIB](https://pusatinformasi.kampusmerdeka.kemdikbud.go.id/hc/en-us/articles/29500656534297-Cara-Membuat-Laporan-Bulanan-Mahasiswa-MSIB-6)**  
-   Instruksi tentang pelaporan bulanan mahasiswa MSIB, penting untuk memenuhi persyaratan laporan.
+   Cara Membuat Laporan Bulanan Mahasiswa MSIB 6 adalah panduan yang memberikan langkah-langkah detail bagi mahasiswa peserta program MSIB (Magang dan Studi Independen Bersertifikat) angkatan 6 dalam menyusun dan mengirim laporan bulanan. Dokumen     ini mencakup jadwal pengumpulan, cara mengakses dan mengisi data laporan melalui sistem, serta proses pengecekan dan pengiriman laporan untuk persetujuan mentor. Panduan ini juga menjelaskan bagaimana laporan dinilai serta menyediakan bagian       FAQ untuk menjawab pertanyaan umum terkait proses pengisian laporan.
 
 ---
 
