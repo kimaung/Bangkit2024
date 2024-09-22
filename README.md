@@ -38,19 +38,19 @@ Selama menjadi bagian dari kohort **Bangkit 2024**, pastikan untuk merujuk pada 
 Berikut adalah beberapa alat dan portal yang digunakan selama program:
 
 1. **[Dashboard Mahasiswa](https://dashboard.bangkit.academy/)**  
-   Tempat untuk memantau progres kalian selama program.
+   Bangkit Dashboard adalah platform yang digunakan oleh peserta program Bangkit 2024 untuk memantau kemajuan mereka. Pada dashboard ini, peserta dapat melihat status kehadiran dalam berbagai sesi program, progres kursus yang sedang diambil,          penyelesaian tugas, serta riwayat poin yang diperoleh. Selain itu, dashboard juga menampilkan status keseluruhan kemajuan peserta, seperti apakah mereka berada di depan jadwal atau tepat waktu. Dengan fitur-fitur ini, peserta dapat dengan mudah    melacak perkembangan mereka selama mengikuti program Bangkit.
 
 2. **[Portal Mahasiswa](https://dashboard.bangkit.academy/student-portal)**  
-   Tempat mengakses berbagai informasi dan dokumen penting.
+   Bangkit Student Portal adalah platform yang menyediakan akses bagi peserta program Bangkit 2024 untuk mendapatkan berbagai informasi dan dokumen penting. Melalui portal ini, peserta dapat menemukan pengumuman, panduan, serta tautan penting yang    dibutuhkan selama mengikuti program. Portal ini berfungsi sebagai pusat informasi yang memudahkan peserta untuk mengelola kebutuhan akademis dan administratif mereka sepanjang program.
 
 3. **[Kampus Merdeka](https://kampusmerdeka.kemdikbud.go.id/)**  
-   Situs resmi dari Kemdikbud untuk informasi tambahan mengenai program MSIB.
+   Kampus Merdeka adalah situs resmi dari Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi (Kemdikbud) yang menyediakan informasi lengkap mengenai program Magang dan Studi Independen Bersertifikat (MSIB). Melalui situs ini, mahasiswa dapat    menemukan informasi mengenai persyaratan, cara pendaftaran, dan manfaat dari program MSIB, yang dirancang untuk memberikan pengalaman belajar di luar kampus dan meningkatkan kesiapan kerja. Situs ini juga menyediakan akses ke program-program       lain di bawah inisiatif Kampus Merdeka.
 
 4. **[Kalender](https://calendar.google.com/)**  
-   Akses ke kalender untuk mengatur jadwal dan pengingat penting.
+   Kalender Bangkit 2024 Batch 2 adalah alat yang digunakan oleh peserta untuk mengatur dan mengelola jadwal kegiatan penting dalam program. Kalender ini mencakup pengingat tenggat waktu tugas, sesi pertemuan cohort, seminar dari narasumber tamu,     serta sesi kelas interaktif (ILT). Dengan adanya kalender ini, peserta dapat dengan mudah mengikuti jadwal kegiatan, memastikan kehadiran pada sesi penting, serta memenuhi tenggat waktu yang telah ditentukan selama program Bangkit berlangsung.
 
 5. **[Classroom](https://classroom.google.com/)**  
-   Platform utama untuk kegiatan belajar mengajar selama program.
+   Google Classroom Bangkit 2024 Batch 2 digunakan untuk mengelola tugas, mengakses materi pembelajaran, dan berkomunikasi dengan instruktur. Platform ini membantu peserta menyelesaikan tugas tepat waktu dan mengikuti kegiatan pembelajaran secara     terstruktur selama program berlangsung.
 
 ---
 
@@ -59,13 +59,13 @@ Berikut adalah beberapa alat dan portal yang digunakan selama program:
 Berikut adalah beberapa formulir penting yang harus kalian ingat untuk berbagai keperluan laporan dan pengajuan:
 
 1. **[Laporan Kemajuan Belajar untuk Supervisor](https://bangkit.dev/2024Batch2_SupervisorReport)**  
-   Formulir untuk melaporkan progres kepada supervisor.
+   Bangkit 2024 Submission Form - Learning Progress Report to the Supervisor adalah formulir yang digunakan oleh peserta program Bangkit untuk melaporkan kemajuan pembelajaran mereka kepada supervisor secara bulanan. Peserta diminta untuk memilih     periode pelaporan, mengunggah bukti kemajuan berupa pertemuan dengan supervisor atau laporan yang disetujui, serta melampirkan dokumen pendukung lainnya. Formulir ini memastikan bahwa semua laporan kemajuan terdokumentasi dengan baik dan sesuai    dengan persyaratan program.
 
 2. **[Formulir Izin](https://bangkit.dev/PermissionForm2024H2)**  
-   Digunakan untuk mengajukan izin ketidakhadiran.
+   Bangkit 2024 Permission Form adalah formulir yang digunakan oleh peserta program Bangkit 2024 untuk mengajukan izin tidak hadir pada sesi wajib. Peserta diminta untuk memberikan alasan jelas seperti sakit, urusan keluarga, atau kegiatan            akademik yang tidak bisa dihindari. Formulir ini memastikan bahwa ketidakhadiran peserta terdokumentasi dengan baik dan memiliki alasan yang sah.
 
 3. **[Formulir Tugas Teknologi Terlambat](https://bangkit.dev/LateTechAssignment2024H2)**  
-   Digunakan untuk pengumpulan tugas teknologi yang terlambat.
+   [Bangkit 2024] Late Tech Assignment Form adalah formulir yang digunakan oleh peserta Bangkit 2024 untuk melaporkan keterlambatan dalam mengerjakan tugas teknis karena kondisi darurat, seperti sakit, bencana alam, atau kerusakan komputer.           Peserta harus menjelaskan alasan keterlambatan dan melampirkan bukti pendukung, seperti surat dokter atau dokumen relevan lainnya. Formulir ini memastikan bahwa tugas yang terlambat tetap dapat diterima dengan alasan yang valid.
 
 4. **[Formulir Banding Tugas Soft Skill ILT](https://bangkit.dev/SSAssignmentAppeals-24H2)**  
    Formulir untuk banding penilaian tugas soft skill jika diperlukan.
