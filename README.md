@@ -7,27 +7,27 @@ Selama menjadi bagian dari kohort **Bangkit 2024**, pastikan untuk merujuk pada 
 ## 📚 Panduan dan Dokumen Utama
 
 1. **[Panduan Kohort](https://bangkit.dev/CohortGuideBangkit2024Batch2)**  
-   _Panduan utama_ berisi semua informasi penting terkait struktur program, aturan, dan alur pelaksanaan Bangkit 2024.
+   Cohort Guide Bangkit 2024 adalah panduan lengkap yang disusun untuk peserta program Bangkit 2024. Dokumen ini berisi informasi penting mengenai aturan, persyaratan, serta tata cara partisipasi dalam program. Selain itu, panduan ini juga            memberikan arahan mengenai penggunaan platform pembelajaran, alur komunikasi, dan pengaturan teknis yang diperlukan selama mengikuti kegiatan Bangkit. Panduan ini membantu peserta memahami apa yang diharapkan dari mereka dan memastikan             pengalaman belajar mereka berjalan lancar selama program berlangsung.
 
-2. **[Welcome Kit](https://bangkit.dev/WelcomeKitBangkit2024Batch2)**  
-  Students Welcome Kit Bangkit 2024 adalah panduan bagi peserta program untuk mempersiapkan diri sebelum memulai kegiatan. Dokumen ini mencakup informasi tentang pengaturan akun, perangkat, serta penggunaan aplikasi seperti Google Workspace dan platform komunikasi virtual seperti Google Meet dan Zoom. Tujuannya adalah membantu peserta siap secara teknis dan administratif untuk mengikuti program Bangkit 2024.
+3. **[Welcome Kit](https://bangkit.dev/WelcomeKitBangkit2024Batch2)**  
+  Students Welcome Kit Bangkit 2024 adalah panduan bagi peserta program untuk mempersiapkan diri sebelum memulai kegiatan. Dokumen ini mencakup informasi tentang pengaturan akun, perangkat, serta penggunaan aplikasi seperti Google Workspace dan      platform komunikasi virtual seperti Google Meet dan Zoom. Tujuannya adalah membantu peserta siap secara teknis dan administratif untuk mengikuti program Bangkit 2024.
 
-3. **[Timeline](https://bangkit.dev/Bangkit2024H2-WeeklyTimeline)**  
+4. **[Timeline](https://bangkit.dev/Bangkit2024H2-WeeklyTimeline)**  
    Jadwal mingguan yang membantu mengetahui aktivitas setiap minggu selama program.
 
-4. **[FAQ (Pertanyaan yang Sering Diajukan)](https://bangkit.dev/Bangkit2024FAQ)**  
+5. **[FAQ (Pertanyaan yang Sering Diajukan)](https://bangkit.dev/Bangkit2024FAQ)**  
    Jawaban atas pertanyaan umum yang sering muncul selama program.
 
-5. **[Sistem Penilaian](https://bangkit.dev/BangkitAssessmentSystem)**  
+6. **[Sistem Penilaian](https://bangkit.dev/BangkitAssessmentSystem)**  
    Panduan lengkap mengenai sistem penilaian agar kalian memahami cara evaluasi selama program.
 
-6. **[Panduan Tugas Soft Skill](https://bangkit.dev/SoftSkillAssignmentPlagiarismGuidelines)**  
+7. **[Panduan Tugas Soft Skill](https://bangkit.dev/SoftSkillAssignmentPlagiarismGuidelines)**  
    Informasi tentang cara mengerjakan tugas soft skill dengan benar, termasuk panduan terkait plagiarisme.
 
-7. **[Silabus](https://drive.google.com/file/d/1E4Dk4tbh7tq2XhxklIeKYiircmRajafw/view?usp=sharing)**  
+8. **[Silabus](https://drive.google.com/file/d/1E4Dk4tbh7tq2XhxklIeKYiircmRajafw/view?usp=sharing)**  
    Dokumen silabus yang merinci materi yang akan dipelajari selama kohort.
 
-8. **[Panduan Logbook Bulanan MSIB](https://pusatinformasi.kampusmerdeka.kemdikbud.go.id/hc/en-us/articles/29500656534297-Cara-Membuat-Laporan-Bulanan-Mahasiswa-MSIB-6)**  
+9. **[Panduan Logbook Bulanan MSIB](https://pusatinformasi.kampusmerdeka.kemdikbud.go.id/hc/en-us/articles/29500656534297-Cara-Membuat-Laporan-Bulanan-Mahasiswa-MSIB-6)**  
    Instruksi tentang pelaporan bulanan mahasiswa MSIB, penting untuk memenuhi persyaratan laporan.
 
 ---
