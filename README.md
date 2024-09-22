@@ -10,7 +10,7 @@ Selama menjadi bagian dari kohort **Bangkit 2024**, pastikan untuk merujuk pada 
    _Panduan utama_ berisi semua informasi penting terkait struktur program, aturan, dan alur pelaksanaan Bangkit 2024.
 
 2. **[Welcome Kit](https://bangkit.dev/WelcomeKitBangkit2024Batch2)**  
-   Paket selamat datang yang membantu mempersiapkan kalian untuk mengikuti kohort dengan baik.
+  Students Welcome Kit Bangkit 2024 adalah panduan bagi peserta program untuk mempersiapkan diri sebelum memulai kegiatan. Dokumen ini mencakup informasi tentang pengaturan akun, perangkat, serta penggunaan aplikasi seperti Google Workspace dan platform komunikasi virtual seperti Google Meet dan Zoom. Tujuannya adalah membantu peserta siap secara teknis dan administratif untuk mengikuti program Bangkit 2024.
 
 3. **[Timeline](https://bangkit.dev/Bangkit2024H2-WeeklyTimeline)**  
    Jadwal mingguan yang membantu mengetahui aktivitas setiap minggu selama program.
