@@ -65,22 +65,22 @@ Berikut adalah beberapa formulir penting yang harus kalian ingat untuk berbagai 
    Bangkit 2024 Permission Form adalah formulir yang digunakan oleh peserta program Bangkit 2024 untuk mengajukan izin tidak hadir pada sesi wajib. Peserta diminta untuk memberikan alasan jelas seperti sakit, urusan keluarga, atau kegiatan            akademik yang tidak bisa dihindari. Formulir ini memastikan bahwa ketidakhadiran peserta terdokumentasi dengan baik dan memiliki alasan yang sah.
 
 3. **[Formulir Tugas Teknologi Terlambat](https://bangkit.dev/LateTechAssignment2024H2)**  
-   [Bangkit 2024] Late Tech Assignment Form adalah formulir yang digunakan oleh peserta Bangkit 2024 untuk melaporkan keterlambatan dalam mengerjakan tugas teknis karena kondisi darurat, seperti sakit, bencana alam, atau kerusakan komputer.           Peserta harus menjelaskan alasan keterlambatan dan melampirkan bukti pendukung, seperti surat dokter atau dokumen relevan lainnya. Formulir ini memastikan bahwa tugas yang terlambat tetap dapat diterima dengan alasan yang valid.
+   Bangkit 2024 Late Tech Assignment Form adalah formulir yang digunakan oleh peserta Bangkit 2024 untuk melaporkan keterlambatan dalam mengerjakan tugas teknis karena kondisi darurat, seperti sakit, bencana alam, atau kerusakan komputer.             Peserta harus menjelaskan alasan keterlambatan dan melampirkan bukti pendukung, seperti surat dokter atau dokumen relevan lainnya. Formulir ini memastikan bahwa tugas yang terlambat tetap dapat diterima dengan alasan yang valid.
 
 4. **[Formulir Banding Tugas Soft Skill ILT](https://bangkit.dev/SSAssignmentAppeals-24H2)**  
-   Formulir untuk banding penilaian tugas soft skill jika diperlukan.
+   Bangkit 2024 Batch 2 - ILT Soft Skill Assignment Appeals Form adalah formulir yang digunakan oleh peserta program untuk mengajukan banding atas tuduhan plagiarisme pada tugas soft skill. Peserta dapat memilih tugas yang ingin diajukan banding,     menjelaskan alasan banding, dan melampirkan bukti atau referensi yang mendukung klaim mereka. Formulir ini memberikan kesempatan bagi peserta untuk mendapatkan peninjauan ulang atas penilaian mereka secara adil.
 
 5. **[Formulir Pengumpulan Abstrak](https://bangkit.dev/AbstractSubmission2024H2)**  
-   Formulir untuk mengumpulkan abstrak proyek akhir.
+   Bangkit 2024 Abstract Submission Form adalah formulir yang digunakan oleh peserta untuk menyerahkan ringkasan (abstrak) jika mereka melewatkan sesi wajib dalam program Bangkit. Abstrak ini harus ditulis dalam bahasa Inggris dengan minimal 500      kata dan mencakup sebagian besar isi dari sesi yang terlewat. Formulir ini digunakan ketika ketidakhadiran peserta disebabkan oleh keadaan darurat seperti sakit atau kejadian tak terduga lainnya, memastikan bahwa peserta tetap mendapatkan          catatan kehadiran setelah menyerahkan abstrak.
 
 6. **[Formulir Revisi Data Kohort](https://bangkit.dev/CohortDataRevise)**  
-   Digunakan untuk mengajukan revisi data terkait kohort.
+   Bangkit 2024 Batch 2 Cohort Data Revision adalah formulir yang digunakan oleh peserta untuk memperbarui data pribadi atau informasi supervisor terkait program Bangkit. Peserta dapat mengajukan perubahan data yang diperlukan dengan memastikan       informasi yang diisi sudah benar dan sesuai dengan petunjuk. Formulir ini membantu memastikan data peserta tetap akurat selama mengikuti program.
 
 7. **[Formulir Pengajuan Dokumen](https://bangkit.dev/DocReq2024H2)**  
-   Formulir untuk mengajukan permintaan dokumen selama program berlangsung.
+   Document Request Submission Form dari Bangkit 2024 adalah formulir yang digunakan oleh peserta untuk mengajukan permintaan dokumen, seperti tanda tangan, persetujuan logbook, atau dokumen lainnya yang diperlukan untuk keperluan akademis atau       universitas. Peserta harus mengunggah dokumen dalam format yang tepat dan memberikan instruksi detail mengenai bagian yang memerlukan tanda tangan atau cap. Formulir ini memastikan bahwa permintaan dokumen peserta diproses secara tepat oleh tim    Bangkit dalam waktu kerja yang ditentukan.
 
 8. **[Formulir Pengumpulan Sertifikat](https://bangkit.dev/CertificateSubmission2024H2)**  
-   Digunakan untuk pengumpulan sertifikat yang diperlukan.
+   Certificate Submission Form untuk Bangkit 2024 adalah formulir yang digunakan oleh peserta untuk menyerahkan sertifikat kelulusan dari kursus wajib di platform Dicoding dan Coursera. Peserta harus mengunggah URL sertifikat yang valid dan           memilih jalur pembelajaran mereka, seperti Cloud Computing, Mobile Development (Android), atau Machine Learning. Formulir ini memastikan bahwa peserta telah menyelesaikan kursus yang diwajibkan sebagai bagian dari program Bangkit.
 
 ---
 
