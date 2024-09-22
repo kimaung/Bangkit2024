@@ -13,7 +13,7 @@ Selama menjadi bagian dari kohort **Bangkit 2024**, pastikan untuk merujuk pada 
   Students Welcome Kit Bangkit 2024 adalah panduan bagi peserta program untuk mempersiapkan diri sebelum memulai kegiatan. Dokumen ini mencakup informasi tentang pengaturan akun, perangkat, serta penggunaan aplikasi seperti Google Workspace dan      platform komunikasi virtual seperti Google Meet dan Zoom. Tujuannya adalah membantu peserta siap secara teknis dan administratif untuk mengikuti program Bangkit 2024.
 
 4. **[Timeline](https://bangkit.dev/Bangkit2024H2-WeeklyTimeline)**  
-   Jadwal mingguan yang membantu mengetahui aktivitas setiap minggu selama program.
+   Bangkit 2024 Batch 2 Timeline adalah panduan jadwal bagi peserta program Bangkit 2024 yang merinci modul pembelajaran serta tenggat waktu di berbagai jalur, termasuk Soft Skills, Bahasa Inggris, Android, Cloud, dan Machine Learning. Dokumen ini menampilkan alur pembelajaran mingguan dari September hingga Desember 2024, dengan fokus pada tugas, latihan, dan proyek yang harus diselesaikan. Setiap jalur memiliki tenggat waktu khusus untuk setiap tugas, memastikan peserta dapat mengikuti program dengan terstruktur dan tepat waktu.
 
 5. **[FAQ (Pertanyaan yang Sering Diajukan)](https://bangkit.dev/Bangkit2024FAQ)**  
    Jawaban atas pertanyaan umum yang sering muncul selama program.
