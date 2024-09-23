@@ -2,8 +2,6 @@
 
 ## Manajemen Waktu Lebih dari Sekadar Peretasan Kehidupan
 
-**Manajemen Waktu Lebih dari Sekadar Peretasan Kehidupan**
-
 Penulis: Erich C. Dierdorff.  
 Sumber: Diambil dari Harvard Business Review.  
 29 Januari 2020
@@ -89,8 +87,6 @@ Di musim introspeksi diri ini, mengapa meningkatkan manajemen waktu tetap menjad
 # Artikel 2:
 
 ## 4 Cara Untuk Mengelola Energi Anda dengan Lebih Efektif
-
-**4 Cara Mengelola Energi Anda dengan Lebih Efektif**
 
 Penulis Elizabeth Grace Saunders.  
 Sumber: Diambil dari Harvard Business Review.  
