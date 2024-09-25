@@ -2,6 +2,7 @@
 
 ### Create Dataproc Cluster
 
+```bash
 gcloud dataproc clusters create example-cluster \
  --region=us-central1 \
  --zone=us-central1-c \
@@ -29,3 +30,4 @@ gcloud dataproc jobs submit spark \
  --class=org.apache.spark.examples.SparkPi \
  --jars=file:///usr/lib/spark/examples/jars/spark-examples.jar \
  -- 1000
+```
