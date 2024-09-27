@@ -1,39 +1,40 @@
-## Persyaratan Milestone 1:
+## 🎯 Persyaratan Milestone 1: Raih Hadiahmu!
 
-Hadiah akan diberikan kepada setiap siswa yang menyelesaikan semua daftar periksa di bawah ini:
+Untuk mendapatkan hadiah eksklusif, pastikan kamu menyelesaikan _semua_ daftar periksa di bawah ini:
 
-1. **Status Siswa Aktif - Tidak mengundurkan diri**  
-   Artinya, siswa harus tetap terdaftar sebagai peserta dan tidak menarik diri dari program atau pelatihan selama periode tersebut.
+1. **Status Siswa Aktif - Tetap Semangat! 💪**  
+   Pastikan kamu terus aktif dan tidak mengundurkan diri dari program. Kamu harus tetap terdaftar dan menjalani seluruh proses hingga selesai.
 
-2. **Menghadiri semua ILT, sesi wajib (tidak ada izin/abstrak)**  
-   ILT (Instructor-Led Training) adalah sesi pelatihan yang dipandu oleh instruktur. Siswa harus hadir di setiap sesi yang diwajibkan tanpa meminta izin atau memberikan alasan untuk absen.
+2. **Hadiri Semua Sesi ILT Wajib - Jangan Sampai Terlewat! 📚**  
+   ILT (_Instructor-Led Training_) adalah sesi pelatihan penting yang dipandu oleh instruktur. Kehadiran di semua sesi wajib adalah keharusan tanpa absen, izin, atau alasan lainnya. Stay committed!
 
-3. **Aktif dalam konsultasi, tidak ada catatan merah dari Mentor**  
-   Siswa harus berpartisipasi aktif dalam sesi konsultasi dengan mentor mereka dan tidak menerima peringatan atau umpan balik negatif (catatan merah) dari mentor.
+3. **Konsultasi Aktif, Bebas Catatan Merah 🚀**  
+   Selalu libatkan dirimu dalam sesi konsultasi bersama mentor dan hindari umpan balik negatif (catatan merah). Jadikan konsultasi sebagai waktu untuk berkembang!
 
-4. **Menyerahkan Tugas SS 1 - Mindset Pertumbuhan dan Kekuatan Umpan Balik tepat waktu (Tidak TERLAMBAT)**  
-   SS 1 (Submisi Siswa 1) adalah tugas pertama yang berfokus pada konsep mindset pertumbuhan dan kekuatan dari menerima umpan balik. Tugas ini harus dikumpulkan tepat waktu tanpa keterlambatan.
+4. **Tugas SS 1 - Selesaikan Tepat Waktu! ⏳**  
+   Tugas pertama tentang _Mindset Pertumbuhan_ dan _Kekuatan Umpan Balik_ harus diserahkan tepat waktu. No excuses, no late submissions!
 
-5. **Menyerahkan Tugas SS 2 - Manajemen Waktu dan Energi tepat waktu (Tidak TERLAMBAT)**  
-   SS 2 adalah tugas kedua yang berfokus pada manajemen waktu dan energi, yang juga harus diselesaikan dan dikumpulkan tepat waktu tanpa terlambat.
+5. **Tugas SS 2 - Kuasai Manajemen Waktu dan Energi 🕒**  
+   Tugas kedua yang berfokus pada manajemen waktu dan energi juga harus diserahkan tepat waktu. Ini tentang disiplin, jadi jangan sampai terlambat!
 
-6. **Lulus dari Android Pemula**  
-   Siswa harus berhasil menyelesaikan atau lulus dari kursus atau modul "Android Pemula," yang merupakan bagian dari kurikulum.
+6. **Lulus dari Android Pemula - Level Up! 📱**  
+   Selesaikan kursus _Android Pemula_ dengan baik. Ini langkah pertama untuk menjadi pengembang Android yang tangguh.
 
-7. **Lulus dari Kotlin Dasar**  
-   Selain Android, siswa juga harus menyelesaikan kursus "Kotlin Dasar," bahasa pemrograman yang sering digunakan untuk pengembangan aplikasi Android.
+7. **Lulus dari Kotlin Dasar - Mastering the Code! 💻**  
+   Selain Android, pastikan kamu juga menyelesaikan kursus _Kotlin Dasar_, bahasa pemrograman penting untuk pengembangan aplikasi Android.
 
-8. **Mengisi semua formulir umpan balik (ILT & Umpan balik mentor dua mingguan) dalam waktu 24 jam setelah sesi (100% lengkap, tidak ada duplikat)**  
-   Siswa diwajibkan untuk mengisi semua formulir umpan balik setelah sesi ILT atau sesi konsultasi mentor dalam waktu 24 jam. Umpan balik harus 100% lengkap dan tidak boleh ada pengisian yang diulang atau duplikat.
+8. **Isi Semua Formulir Umpan Balik Tepat Waktu 📝**  
+   Setiap sesi ILT atau konsultasi mentor akan meminta umpan balik dalam waktu 24 jam. Pastikan semua formulir lengkap tanpa duplikat.
 
-9. **Menyelesaikan logbook bulanan (KM/Non-KM) untuk bulan 1 (6 September - 5 Oktober)**  
-   Siswa harus menyelesaikan dan menyerahkan logbook bulanan mereka, baik untuk aktivitas yang berkaitan dengan pengetahuan (KM) atau non-pengetahuan (Non-KM), dalam rentang waktu yang ditentukan.
+9. **Selesaikan Logbook Bulanan (KM/Non-KM) 📊**  
+   Dokumentasikan semua aktivitasmu (baik KM maupun Non-KM) dalam logbook bulanan. Untuk bulan 1, catat semua kegiatanmu dari 6 September hingga 5 Oktober.
 
-10. **Melaporkan kemajuan kepada supervisor Anda dan mengirimkan bukti valid**  
-    Setiap siswa harus secara aktif melaporkan kemajuan belajarnya kepada supervisor atau pengawas, serta memberikan bukti yang valid terkait perkembangan mereka dalam program.
+10. **Laporkan Kemajuanmu kepada Supervisor 🎯**  
+    Jangan lupa untuk selalu melaporkan kemajuanmu kepada supervisor, lengkap dengan bukti valid. Ini menunjukkan komitmen dan keseriusanmu dalam program ini.
 
-### Tanggal Batas Akhir:
+---
 
-**14 Oktober 2024**
+### ⏰ Tanggal Batas Akhir:
 
-Ini adalah tanggal terakhir untuk menyelesaikan semua persyaratan di atas agar memenuhi syarat untuk mendapatkan hadiah milestone.
+**14 Oktober 2024**  
+Pastikan semua persyaratan di atas selesai tepat waktu untuk meraih hadiah milestone ini. Jangan sampai terlewat!
