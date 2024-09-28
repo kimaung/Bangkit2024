@@ -1,7 +1,17 @@
+# Cloud Storage Quick Start - CLI/SDK
+
+Run the following commands in your terminal:
+
+```bash
+# Set your desired region
 export REGION=
 
-curl -LO raw.githubusercontent.com/QUICK-GCP-LAB/2-Minutes-Labs-Solutions/main/Cloud%20Storage%20Qwik%20Start%20-%20CLI%20SDK/gsp074.sh
+# Download the start script
+curl -LO https://raw.githubusercontent.com/kimaung/Bangkit2024/refs/heads/main/Cloud-Computing/Google-Cloud-Computing-Foundations-Infrastructure-in-Google-Cloud/Cloud%20Storage%20Qwik%20Start%20-%20CLI%20SDK/start.sh
 
-sudo chmod +x gsp074.sh
+# Make the script executable
+sudo chmod +x start.sh
 
-./gsp074.sh
+# Run the script
+./start
+```
