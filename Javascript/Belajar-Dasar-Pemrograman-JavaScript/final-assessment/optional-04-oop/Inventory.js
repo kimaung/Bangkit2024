@@ -12,20 +12,20 @@ class Inventory {
     this.items = [];
   }
 
-  // Method to add an item to the inventory
+  // Method untuk menambahkan item ke dalam inventaris
   addItem(item) {
     this.items.push(item);
   }
 
-  // Method to remove an item from the inventory by id
+  // Method untuk menghapus item dari inventaris berdasarkan id
   removeItem(id) {
     this.items = this.items.filter((item) => item.id !== id);
   }
 
-  // Method to list all items in the inventory
+  // Method untuk menampilkan semua item dalam inventaris
   listItems() {
     if (this.items.length === 0) {
-      return "No items in inventory.";
+      return ""; // Mengembalikan string kosong jika tidak ada item dalam inventaris
     }
 
     return this.items.map((item) => item.displayDetails()).join("\n");
