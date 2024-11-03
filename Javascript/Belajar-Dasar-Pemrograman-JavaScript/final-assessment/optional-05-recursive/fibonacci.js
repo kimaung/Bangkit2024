@@ -1,12 +1,14 @@
 function fibonacci(n) {
-  // Base case: return n if n is 0 or 1
-  if (n === 0) {
-    return 0;
-  } else if (n === 1) {
-    return 1;
+  // Inisialisasi array dengan dua elemen pertama dari deret Fibonacci
+  const result = [0, 1];
+
+  // Menghasilkan deret Fibonacci hingga elemen ke-n
+  for (let i = 2; i <= n; i++) {
+    result.push(result[i - 1] + result[i - 2]);
   }
-  // Recursive case: fibonacci(n-1) + fibonacci(n-2)
-  return fibonacci(n - 1) + fibonacci(n - 2);
+
+  // Mengembalikan array berisi deret Fibonacci hingga elemen ke-n
+  return result.slice(0, n + 1);
 }
 
 // Jangan hapus kode di bawah ini!
